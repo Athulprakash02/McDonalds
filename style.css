@@ -25,7 +25,9 @@
 }
 .navbar-toggler{
     margin-right: auto!important;
-    border: none;
+    border: none !important;
+    color: transparent !important;
+    outline: none !important;
 }
 
 
